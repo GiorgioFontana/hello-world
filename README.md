@@ -1,2 +1,2 @@
 # hello-world
-starting
+starting & trying
